@@ -1,0 +1,7 @@
+C:\Users\NINH\source\repos\QLMusic\QL.MUSIC.Common\obj\Debug\net6.0\QL.MUSIC.Common.csproj.AssemblyReference.cache
+C:\Users\NINH\source\repos\QLMusic\QL.MUSIC.Common\obj\Debug\net6.0\QL.MUSIC.Common.Resources.Resource.resources
+C:\Users\NINH\source\repos\QLMusic\QL.MUSIC.Common\obj\Debug\net6.0\QL.MUSIC.Common.csproj.GenerateResource.cache
+C:\Users\NINH\source\repos\QLMusic\QL.MUSIC.Common\obj\Debug\net6.0\QL.MUSIC.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NINH\source\repos\QLMusic\QL.MUSIC.Common\obj\Debug\net6.0\QL.MUSIC.Common.AssemblyInfoInputs.cache
+C:\Users\NINH\source\repos\QLMusic\QL.MUSIC.Common\obj\Debug\net6.0\QL.MUSIC.Common.AssemblyInfo.cs
+C:\Users\NINH\source\repos\QLMusic\QL.MUSIC.Common\obj\Debug\net6.0\QL.MUSIC.Common.csproj.CoreCompileInputs.cache
