@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\QL.MUSIC.BL\QL.MUSIC.BL.csproj" />
     <ProjectReference Include="..\QL.MUSIC.Common\QL.MUSIC.Common.csproj" />
   </ItemGroup>

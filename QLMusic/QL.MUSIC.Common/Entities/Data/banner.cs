@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace QL.MUSIC.Common.Entities
-{ 
+{
     public class banner
     {
         public int id { get; set; }

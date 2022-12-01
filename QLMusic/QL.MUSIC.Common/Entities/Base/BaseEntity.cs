@@ -1,5 +1,4 @@
-﻿
-using QL.MUSIC.Common.Resources;
+﻿using QL.MUSIC.Common.Resources;
 using System;
 using System.Collections.Generic;
 using System.Linq;

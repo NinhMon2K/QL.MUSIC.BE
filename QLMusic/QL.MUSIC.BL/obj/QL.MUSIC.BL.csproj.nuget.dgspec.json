@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.BL\\QL.MUSIC.BL.csproj": {}
+    "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.BL\\QL.MUSIC.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.BL\\QL.MUSIC.BL.csproj": {
+    "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.BL\\QL.MUSIC.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.BL\\QL.MUSIC.BL.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.BL\\QL.MUSIC.BL.csproj",
         "projectName": "QL.MUSIC.BL",
-        "projectPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.BL\\QL.MUSIC.BL.csproj",
-        "packagesPath": "C:\\Users\\NINH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.BL\\obj\\",
+        "projectPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.BL\\QL.MUSIC.BL.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj": {
-                "projectPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj"
+              "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj": {
+                "projectPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj"
               },
-              "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj": {
-                "projectPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj"
+              "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj": {
+                "projectPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj"
               }
             }
           }
@@ -77,24 +77,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj": {
+    "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj",
         "projectName": "QL.MUSIC.Common",
-        "projectPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj",
-        "packagesPath": "C:\\Users\\NINH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.Common\\obj\\",
+        "projectPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -137,24 +137,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj": {
+    "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj",
         "projectName": "QL.MUSIC.DL",
-        "projectPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj",
-        "packagesPath": "C:\\Users\\NINH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.DL\\obj\\",
+        "projectPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.DL\\QL.MUSIC.DL.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,8 +170,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj": {
-                "projectPath": "C:\\Users\\NINH\\source\\repos\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj"
+              "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj": {
+                "projectPath": "C:\\Users\\nguye\\Downloads\\QL.MUSIC.BE\\QLMusic\\QL.MUSIC.Common\\QL.MUSIC.Common.csproj"
               }
             }
           }
@@ -186,10 +186,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.0.123, )"
-            },
             "Dapper.StrongName": {
               "target": "Package",
               "version": "[2.0.123, )"
@@ -219,7 +215,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

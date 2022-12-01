@@ -32,7 +32,7 @@ namespace QL.MUSIC.DL
         /// <param name="type">Loại dữ liệu được tìm kiếm</param>
         /// <returns>Danh sách các bản ghi sau khi chọn lọc</returns>
         /// Created by:  NNNINH (09/11/2022)
-        public PagingData<T> FilterRecords(string? keyword, string type);
+    
         #endregion
 
 
@@ -43,7 +43,7 @@ namespace QL.MUSIC.DL
         /// <param name="record">Đối tượng bản ghi cần thêm mới</param>
         /// <returns>ID của bản ghi vừa thêm. Return về Guid rỗng nếu thêm mới thất bại</returns>
         /// Cretaed by: NNNINH (09/11/2022)
-        public Guid InsertRecord(T record, Guid recordId);
+        public Guid InsertRecord(T record);
         #endregion
 
         #region API Update
@@ -72,7 +72,7 @@ namespace QL.MUSIC.DL
         /// <param name="recordIdList">Danh sách ID các bản ghi cần xóa</param>
         /// <returns>Danh sách ID các bản ghi đã xóa</returns>
         /// Cretaed by: NNNINH (09/11/2022)
-        public int DeleteMultiRecords(List<string> recordIdList);
+        public List<string> DeleteMultiRecords(List<string> recordIdList);
         #endregion
 
         #region API RecordCode
@@ -85,5 +85,6 @@ namespace QL.MUSIC.DL
         /// Cretaed by:  NNNINH (09/11/2022)
         public int DuplicateRecordCode(object recordCode, Guid recordId);
         #endregion
+        public PagingData<T> FilterRecord(string? keyword, int limit, int page);
     }
 }

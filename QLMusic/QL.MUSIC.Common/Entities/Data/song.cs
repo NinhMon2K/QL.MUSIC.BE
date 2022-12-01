@@ -4,7 +4,7 @@ using System.Text;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace QL.MUSIC.Common.Entities
-{ 
+{
     public class song
     {
         public int id { get; set; }

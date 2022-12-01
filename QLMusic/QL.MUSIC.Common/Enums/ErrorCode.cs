@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QL.MUSIC.Common.Entities
+namespace QL.MUSIC.Common.Enums
 {
     /// <summary>
     /// Danh sách mã lỗi khi gọi API
